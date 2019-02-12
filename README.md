@@ -18,7 +18,6 @@
 - Segmentation and Correspondence problems
 - Graph Cuts for Image segmentation
 - Energy minimization
-- Hidden Markov Models
 - Random Markov Fields
 - Stereo correspondence, homography
 - RANSAC
@@ -32,6 +31,7 @@
 
 ## Module 3. Object Tracking and Search
 - Histograms and statistical models
+- Hidden Markov Models
 - Integral images
 - HOG detector
 - KLT tracker
