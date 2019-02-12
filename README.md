@@ -15,13 +15,13 @@
 - Feature stability
 
 ## Module 2. Object Retrieval, Image Segmentation and Correspondence
-- Dynamic programming
-- Stereo correspondence, homography
-- Energy minimization
-- RANSAC
 - Graph Cuts and Image segmentation
+- Energy minimization
 - Hidden Markov Models
 - Random Markov Fields
+- Stereo correspondence, homography
+- RANSAC
+- Dynamic programming
 - Optical Flow: Horn Schunck, Lucas-Kanade/KLT
 - Optical Flow and 3D trajectories
 - DPM: Deformable Part Models
