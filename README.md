@@ -1,6 +1,6 @@
 # Computer Vision Course
 
-## Module 1 Image processing basics. Local image processing and feature descriptors
+## Module 1. Image processing basics. Local image processing and feature descriptors
 - Cameras and depth sensors
 - Image degradations: noise, blur, highlights and shadows
 - Local features. Scale, rotation, affine transformation, exposition invariant
@@ -14,7 +14,7 @@
 - Local Binary Pattern (LBP) Descriptor
 - Feature stability
 
-## Module 2 Object Retrieval, Image Segmentation and Correspondence
+## Module 2. Object Retrieval, Image Segmentation and Correspondence
 - Graph Cuts and Image segmentation
 - Hidden Markov Models
 - Random Markov Fields
@@ -26,7 +26,7 @@
 - Layered motion
 - Background models
 
-## Module 3 Object Tracking and Search
+## Module 3. Object Tracking and Search
 - Histograms and statistical models
 - Integral images
 - HOG detector
