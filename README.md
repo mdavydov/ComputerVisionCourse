@@ -25,6 +25,7 @@
 - Optical Flow: Horn Schunck, Lucas-Kanade/KLT
 - Optical Flow and 3D trajectories
 - DPM: Deformable Part Models
+- Graph Cuts in 3D
 - Layered motion
 - Background models
 
