@@ -55,7 +55,6 @@
 - Geometry-based AR
 - Light and materials
 - Shared AR Experiences
-- Transfer-based AR (LSTM Neural nets, GANs)
 - Successful AR samples
 
 ## Module 5. Deep Learning for CV
@@ -71,6 +70,7 @@
 - Human pose estimation (VNect)
 - 3D reconstruction (LayoutNet)
 - Optimized topologies (MobileNet, ... )
+- Transfer-based AR (LSTM Neural nets, GANs)
 - Running in real-time (Core ML 2, etc)
 
 Metrics learning (face recognition) - Person from Ring should be better here.
