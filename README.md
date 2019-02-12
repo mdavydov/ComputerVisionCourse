@@ -14,8 +14,9 @@
 - Local Binary Pattern (LBP) Descriptor
 - Feature stability
 
-## Module 2. Object Retrieval, Image Segmentation and Correspondence
-- Graph Cuts and Image segmentation
+## Module 2. Image Segmentation and Correspondence
+- Segmentation and Correspondence problems
+- Graph Cuts for Image segmentation
 - Energy minimization
 - Hidden Markov Models
 - Random Markov Fields
