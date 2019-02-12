@@ -13,6 +13,7 @@
 - SIFT Descriptor
 - Local Binary Pattern (LBP) Descriptor
 - Feature stability
+- Neural nets for feature extraction
 
 ## Module 2. Image Segmentation and Correspondence
 - Segmentation and Correspondence problems
@@ -28,6 +29,7 @@
 - Graph Cuts in 3D
 - Layered motion
 - Background models
+- Neural nets for image segmentation and correspondence
 
 ## Module 3. Object Tracking and Search
 - Histograms and statistical models
@@ -41,6 +43,7 @@
 - Bag of visual words
 - minHash
 - Image Retrieval for large image collections: image description, indexing, geometric consistency
+- Neural nets for object tracking and search
 
 ## Module 4. Geometry and Augmented Reality (AR)
 
@@ -58,23 +61,27 @@
 - Light and materials
 - Shared AR Experiences
 - Successful AR samples
+- Neural nets for AR and 3D reconstruction
 
 ## Module 5. Deep Learning for CV
 
 - ML basics: data retrieval, synthesis, augmentation, train and test sets
 - Non-deep ML models (PCA, SVM)
 - Deep learning
-- Image classification (AlexNet, )
-- Object detection (R-CNN)
-- Object Tracking (SAE and CNN)
-- Object segmentation (SegNet)
-- Instance segmentation (Mask R-CNN)
-- Optical flow (PWC Net)
-- Human pose estimation (VNect)
-- 3D reconstruction (LayoutNet)
-- Optimized topologies (MobileNet, ... )
-- Transfer-based AR (LSTM Neural nets, GANs)
+- Different layers. Math and implementation.
+- Optimization for size and speed (MobileNet, ... )
 - Running in real-time (Core ML 2, etc)
+- Study of different architectures: 
+Image classification (AlexNet),
+Object detection (R-CNN),
+Object Tracking (SAE and CNN),
+Object segmentation (SegNet),
+Instance segmentation (Mask R-CNN),
+Optical flow (PWC Net),
+Human pose estimation (VNect),
+3D reconstruction (LayoutNet),
+Transfer-based AR (LSTM Neural nets, GANs).
+
 
 Metrics learning (face recognition) - Person from Ring should be better here.
 
