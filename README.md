@@ -61,6 +61,7 @@
 
 ## Module 5. Deep Learning for CV
 
+- ML basics: data retrieval, synthesis, augmentation, train and test sets
 - Non-deep ML models (PCA, SVM)
 - Deep learning
 - Image classification (AlexNet, )
