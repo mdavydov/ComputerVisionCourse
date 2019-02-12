@@ -15,11 +15,13 @@
 - Feature stability
 
 ## Module 2. Object Retrieval, Image Segmentation and Correspondence
+- Dynamic programming
+- Stereo correspondence, homography
+- Energy minimization
+- RANSAC
 - Graph Cuts and Image segmentation
 - Hidden Markov Models
 - Random Markov Fields
-- Dynamic programming
-- Stereo correspondence, homography
 - Optical Flow: Horn Schunck, Lucas-Kanade/KLT
 - Optical Flow and 3D trajectories
 - DPM: Deformable Part Models
@@ -32,6 +34,7 @@
 - HOG detector
 - KLT tracker
 - Mean-Shift, CamShift tracker
+- Kalman Filter
 - Binary features
 - Bag of visual words
 - minHash
