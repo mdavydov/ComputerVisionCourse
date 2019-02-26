@@ -1,7 +1,7 @@
 # Computer Vision Course
 
 ## Module 1. Image processing basics. Local image processing and feature descriptors
-- image acquisition: Cameras and depth sensors
+- image acquisition: cameras and depth sensors
 - Color spaces:
  [HSL and HSV](https://en.wikipedia.org/wiki/HSL_and_HSV),
  [L\*a\*b\*](https://en.wikipedia.org/wiki/Lab_color_space),
