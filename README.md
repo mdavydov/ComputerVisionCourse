@@ -1,7 +1,13 @@
 # Computer Vision Course
 
 ## Module 1. Image processing basics. Local image processing and feature descriptors
-- Cameras and depth sensors
+- image acquisition: Cameras and depth sensors
+- Color spaces:
+ [HSL and HSV](https://en.wikipedia.org/wiki/HSL_and_HSV),
+ [L\*a\*b\*](https://en.wikipedia.org/wiki/Lab_color_space),
+ [sRGB](https://en.wikipedia.org/wiki/SRGB),
+ [CIE XYZ](https://en.wikipedia.org/wiki/CIE_1931_color_space),
+ [Display P3](https://en.wikipedia.org/wiki/DCI-P3#Display_P3)
 - Image degradations: noise, blur, highlights and shadows
 - Local features. Scale, rotation, affine transformation, exposition invariant
 - Denoise and deblur
