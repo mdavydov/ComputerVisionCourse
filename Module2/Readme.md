@@ -1,3 +1,18 @@
+Image segmentation is the process of assigning a label to every pixel in an image such that pixels with the same label share certain characteristics
+
+Types of segmentation:
+
+Semantic segmantation - each type of objects obtains specific label
+
+Instance segmentation - each separate object obtains different labels
+
+Superpixel segmentation - close regions with similar color properties obtain the same label
+
+Texture segmentation - close regions with the same texture obtain the same label
+
+
+
+
 Додаткові матеріали:
 
 Сегментація:
