@@ -1,3 +1,10 @@
+Інсталяція середовища:
+
+https://colab.research.google.com
+
+
+
+
 Image segmentation is the process of assigning a label to every pixel in an image such that pixels with the same label share certain characteristics
 
 Types of segmentation:
