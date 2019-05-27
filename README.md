@@ -87,8 +87,5 @@ Optical flow (PWC Net),
 Human pose estimation (VNect),
 3D reconstruction (LayoutNet),
 Transfer-based AR (LSTM Neural nets, GANs).
-
-
-Metrics learning (face recognition) - Person from Ring should be better here.
-
+Metrics learning (face recognition)
 
