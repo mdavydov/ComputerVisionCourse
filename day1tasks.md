@@ -10,7 +10,7 @@ FAIR - working solutions customized for every image. >70% solved tasks.
 
 GOOD - working solutions customized for every image. >90% solved tasks.
 
-EXCELLENT - solution that handles image set with single set of parameters
+EXCELLENT - solution that handles one of image sets with a single set of parameters. 100% solved tasks.
 
 ## Separate text from background
 
