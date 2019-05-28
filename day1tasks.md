@@ -16,7 +16,7 @@
 ![](tasks/text/text6.jpg)
 
 
-## Count number of objects
+## Estimate number of objects
 
 ![](tasks/count/count1.jpg)
 
