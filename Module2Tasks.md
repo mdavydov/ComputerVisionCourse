@@ -7,6 +7,8 @@
 5. Find projective transformation matrix using 4 point pairs
 6. Implement PatchMatch algorithm
 
+**Solutions should be uploaded to github project with subfolders task1...task6**
+
 ## Notes
 
 **In task 4** correctness of solution can be verified using cv functions:
