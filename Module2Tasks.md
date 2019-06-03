@@ -1,4 +1,15 @@
-# Tasks for day 1
+# Tasks for Module 2
+
+1. Separate text from background [(images for task 1)](#textimages)
+2. Estimate number of objects [(images for task 2)](#countimages)
+3. Separate object from background [(images for task 3)](#objimages)
+4. Find affine transformation matrix using 3 point pairs
+5. Find projective transformation matrix using 4 point pairs
+6. Implement PatchMatch algorithm
+
+
+
+## Assessment criteria
 
 IMPORTANT! Students are not expected to find unique solution that works in all cases.
 
@@ -31,7 +42,7 @@ For object counting 5% error is allowed.
 
 For object separation from background 5% of missclassification is allowed (5% of total image area can be false positives of false negatives)
 
-## Separate text from background
+## <a name="textimages"></a> Separate text from background
 
 ![](tasks/text/text1.jpg)
 
@@ -46,7 +57,7 @@ For object separation from background 5% of missclassification is allowed (5% of
 ![](tasks/text/text6.jpg)
 
 
-## Estimate number of objects
+## <a name="countimages"></a> Estimate number of objects
 
 ![](tasks/count/count1.jpg)
 
@@ -72,7 +83,7 @@ For object separation from background 5% of missclassification is allowed (5% of
 
 ![](tasks/count/count12.jpg)
 
-## Separate objects from background
+## <a name="objimages"></a> Separate objects from background
 
 ![](tasks/object/obj1.jpg)
 
