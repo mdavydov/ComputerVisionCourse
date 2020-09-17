@@ -1,5 +1,4 @@
-Module 2 Day 1 Homework.
-Each task (image) worth 1 point. 
+## Module 2 Day 1 Homework. Each task (image) worth 1 point. 
 
 Requirements:
 Implement solution as a python notebook using https://colab.research.google.com
