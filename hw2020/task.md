@@ -33,7 +33,7 @@ Start with:
 https://colab.research.google.com/drive/1bXbO1ggzEMeqhYOffvcZ72F_bsD_-Ved
 
 5. (3 points) Implement stereo matching of rectified images using dynamic programming.
-Use comparison of 7x7 patches, enable skip of continues occluded areas.
+Use comparison of 7x7 patches, enable skip of continuous occluded areas.
 The result should be coloured disparity map with gray occluded areas.
 The code should be unique (not a copy of existing code from Google Search)
 
