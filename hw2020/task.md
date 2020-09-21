@@ -27,6 +27,7 @@ https://images.indianexpress.com/2019/04/cat_759getty.jpg
 ## Module 2 Day 2 Homework.
 
 4. (2 points) Implement homography matrix estimation by 4 points as solution of 13x13 equation or SVD of 8x9 matrix
+
 Start with:
 
 https://colab.research.google.com/drive/1bXbO1ggzEMeqhYOffvcZ72F_bsD_-Ved
@@ -37,6 +38,7 @@ The result should be coloured disparity map with gray occluded areas.
 The code should be unique (not a copy of existing code from Google Search)
 
 Images for testing:
+
 https://raw.githubusercontent.com/mdavydov/ComputerVisionCourse/master/hw2020/stereo/im1_L.png
 https://raw.githubusercontent.com/mdavydov/ComputerVisionCourse/master/hw2020/stereo/im1_R.png
 https://raw.githubusercontent.com/mdavydov/ComputerVisionCourse/master/hw2020/stereo/im2_L.png
@@ -47,6 +49,7 @@ The result should be coloured disparity map with gray occluded areas.
 The code should be unique (not a copy of existing code from Google Search)
 
 Images for testing:
+
 https://raw.githubusercontent.com/mdavydov/ComputerVisionCourse/master/frames/v001.jpg
 https://raw.githubusercontent.com/mdavydov/ComputerVisionCourse/master/frames/v010.jpg
 https://raw.githubusercontent.com/mdavydov/ComputerVisionCourse/master/frames/v030.jpg
