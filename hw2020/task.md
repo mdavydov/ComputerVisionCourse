@@ -2,7 +2,8 @@
 
 Requirements:
 Implement solution as a python notebook using https://colab.research.google.com
-Solution should be stable to small deformations of input images (i.e. 90 degree rotation, mirroring, crop
+Solution should be stable to small deformations of input images (i.e. 90 degree rotation, mirroring, crop.
+
 Upload links to your notebooks (make sure to open access for reading)
 
 1. (3 points) Make text black and background white
