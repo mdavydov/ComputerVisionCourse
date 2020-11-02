@@ -25,7 +25,7 @@ Task 2. (11 points) 8-point algorithm
  
  Task 3. (3 extra points) 3D reconstruction
  
-3.1 (1 point) Perform 3D reconstruction of the building from task 2
+3.1 (1 point) Perform 3D reconstruction of the building from the task 2
 
 3.2 (1 point) Display 3D reconstructed polygon from different angles of view
 
