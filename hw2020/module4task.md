@@ -25,8 +25,8 @@ Task 2. (11 points)
  
  Task 3. (3 extra points)
  
-3.1 (1 point) Perform 3D reconstruction of the building from task 3
+3.1 (1 point) Perform 3D reconstruction of the building from task 2
 
-3.2 (1 point) Display 3D reconstructed polygon from different angles
+3.2 (1 point) Display 3D reconstructed polygon from different angles of view
 
 3.3. (1 point) Check what kind of ambiguity you have after reconstruction
