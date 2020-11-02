@@ -9,7 +9,7 @@ Task 1. (7 points) Finding ellipses
    - (Y) maximum deviation of ellipse points from the correct ellipse for 5-point method (function 1) and 6-point method (function 2)
    - Make at least 100 attempts for every point of the plot and calculate mean value as a result
    
-Task 2. (11 points) 
+Task 2. (11 points) 8-point algorithm
 
  2.1 (3 points) Implement 8-point algorithm for finding fundamental matrices
  
@@ -23,7 +23,7 @@ Task 2. (11 points)
  
  2.5 (3 points) Check how the solution of 8-point algorithm will be changed in case of error in point locations (i.e. displace one of the points by 10 pixels, find new solution and compare to original)
  
- Task 3. (3 extra points)
+ Task 3. (3 extra points) 3D reconstruction
  
 3.1 (1 point) Perform 3D reconstruction of the building from task 2
 
