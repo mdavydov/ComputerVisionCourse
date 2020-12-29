@@ -21,7 +21,7 @@ Task 2. (11 points) 8-point algorithm
  
  2.5 (4 points) Find fundamental matrices for every image pair, draw epipolar lines, find coordinates of epipoles.
  
- 2.5 (3 points) Check how the solution of 8-point algorithm will be changed in case of error in point locations (i.e. displace one of the points by 10 pixels, find new solution and compare to original)
+ 2.6 (3 points) Check how the solution of 8-point algorithm will be changed in case of error in point locations (i.e. displace one of the points by 10 pixels, find new solution and compare to original)
  
  Task 3. (3 extra points) 3D reconstruction
  
