@@ -4,7 +4,7 @@
 2. (15%) Estimate number of objects [(images for task 2)](#countimages)
 3. (20%) Separate object from background [(images for task 3)](#objimages)
 4. (20%) Find projective transformation matrix with 4 point pairs by solving equation with 13 unknowns (H, w_1, w_2, w_3, w_4)  
-5. (30%) Implement at your own choice 1 or 2:
+5. (30%) Implement (i) or (ii) at your own choice:
    1. Implement Stereo Matching using Dynamic Programming
    2. Implement PatchMatch algorithm
 
