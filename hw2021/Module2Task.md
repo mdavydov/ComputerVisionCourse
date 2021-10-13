@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/mdavydov/ComputerVisionCourse/master/frames/v0
 
 ## Notes
 
-**In task 5** correctness of solution (up to scalar multiplier) can be verified using cv functions:
+**In task 4** correctness of solution (up to scalar multiplier) can be verified using cv functions:
 
 ```
 cv2.getPerspectiveTransform(pts1,pts2)
@@ -42,8 +42,6 @@ cv2.warpPerspective(img,M,(w, h))
 ```
 
 ## Assessment criteria
-
-### Assessment criteria for day 1 tasks (1-3):
 
 IMPORTANT! You are not expected to implement one algorithm that works in all provided cases. Just try to do your best.
 
