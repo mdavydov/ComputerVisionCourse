@@ -6,6 +6,8 @@
 4. Find projective transformation matrix using 4 point pairs
 5. Implement Stereo Matching using Dynamic Programming or PatchMatch algorithm
 
+https://vision.middlebury.edu/stereo/data/scenes2014/zip/Flowers-perfect.zip
+
 **Solutions should be uploaded to github project with subfolders task1...task6**
 
 ## Notes
