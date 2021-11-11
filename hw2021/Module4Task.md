@@ -2,9 +2,9 @@
 
 Task 1. Finding ellipses
 
-  (20%) 1.1. Implement algorithm for finding ellipses by 5, 6, and 7 points;
+  (20%) 1.1. Implement algorithm for finding ellipses using 5, 6, and 7 points;
   
-  (20%) 1.2. Compare how stable are these 3 algorithms to point location displacement
+  (20%) 1.2. Compare how stable are these 3 algorithms to displacement of point locations 
    - Create experiment where points are randomly taken on the ellipse edge
    - Suppose normally distributed error in point locations N(0, &sigma;<sup>2</sup>)
    - Propose and substantiate some metric for ellipse displacement
@@ -31,5 +31,7 @@ Task 2. 3D Reconstruction
  
  (30%) 2.6 Perform and visualize 3D reconstruction of the building using every image pair (so you should get 3 reconstructions)
  
+   - Estimate camera calibration matrix and calculate essential matrices to get better results
+   - Example of camera calibration matrix estimation  can be found at https://colab.research.google.com/drive/1rRoRtHkbJC9rDO3Ve_6Impagz8i_s_-D?usp=sharing
    - Example of textured output using python/colab can be found at https://colab.research.google.com/drive/1PHHsbQOaV2aS5LoVOgBEh0Htmh0dz51N?usp=sharing)
-
+   - Example of 3D reconstruction can be found at http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf, pages 127-143
