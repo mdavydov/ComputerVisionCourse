@@ -35,3 +35,5 @@ Task 2. 3D Reconstruction
    - Example of camera calibration matrix estimation  can be found at https://colab.research.google.com/drive/1rRoRtHkbJC9rDO3Ve_6Impagz8i_s_-D?usp=sharing
    - Example of textured output using python/colab can be found at https://colab.research.google.com/drive/1PHHsbQOaV2aS5LoVOgBEh0Htmh0dz51N?usp=sharing)
    - Example of 3D reconstruction can be found at http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf, pages 127-143
+
+All tasks should be implemented in Python/Colab with sufficient comments
