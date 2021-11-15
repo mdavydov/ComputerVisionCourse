@@ -20,7 +20,7 @@
   
   (10%) 1B.2 Find minimal set of required points to fix distortions in the example
   
-  (10%) 1B.3 Add tangental distortion (p_1, p_2) parameters to the model. Estimate how stable is the algorithms with tangental distortion parameters
+  (10%) 1B.3 Add tangental distortion (p<sub>1</sub>, p<sub>2</sub>) parameters to the model. Estimate how stable is the algorithms with tangental distortion parameters
 
 ## Task 2. 3D Reconstruction
 
