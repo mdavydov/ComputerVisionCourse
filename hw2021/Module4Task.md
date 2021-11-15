@@ -1,10 +1,12 @@
 # Tasks for Module 4
 
-Task 1. Finding ellipses
+## Task 1. Solve task 1A or 1B at your own choice
 
-  (20%) 1.1. Implement algorithm for finding ellipses using 5, 6, and 7 points;
+  ### Task 1A. Finding ellipses
+
+  (20%) 1A.1. Implement algorithm for finding ellipses using 5, 6, and 7 points;
   
-  (20%) 1.2. Compare how stable are these 3 algorithms to displacement of point locations 
+  (20%) 1A.2. Compare how stable are these 3 algorithms to displacement of point locations 
    - Create experiment where points are randomly taken on the ellipse edge
    - Suppose normally distributed error in point locations N(0, &sigma;<sup>2</sup>)
    - Propose and substantiate some metric for ellipse displacement
@@ -12,7 +14,15 @@ Task 1. Finding ellipses
    - Here is an [Example](../images/plot.jpg) of mean and deviation plot
    - Make at least 100 attempts for every &sigma;
 
-Task 2. 3D Reconstruction
+  ### Task 1B. Fix distortions in photos using straight lines
+   
+  (20%) 1B.1 Rewrite TensorFlowCameraModel.ipynb to take into account weights of the points
+  
+  (10%) 1B.2 Find minimal set of required points to fix distortions in the example
+  
+  (10%) 1B.3 Add tangental distortion (p_1, p_2) parameters to the model. Estimate how stable is the algorithms with tangental distortion parameters
+
+## Task 2. 3D Reconstruction
 
  2.1 Implement or use existing 8-point algorithm for finding fundamental matrices
  
