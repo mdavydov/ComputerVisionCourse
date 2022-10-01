@@ -19,7 +19,7 @@
 
    In both tasks you should visualize obtained optical flow.
    You should not use ready-made implementations or take working code from github or other sources.
-   You can downscale images for faster processing.
+   You may downscale images and use **Torch library** for faster processing.
 
 Test images for stereo matching can be taken from
 https://vision.middlebury.edu/stereo/data/scenes2014/zip/![image](https://user-images.githubusercontent.com/1785815/193411903-ecd0ac92-8244-4d62-a91b-7998d5eb21b4.jpeg)
