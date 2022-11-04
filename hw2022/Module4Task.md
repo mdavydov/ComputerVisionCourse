@@ -8,14 +8,26 @@
   
  (10%) 1.3 Compare results from 1.1 and 1.2 and write a conclusion. Choose which camera calibrartion matrix to use.
 
-## Task 2. 3D Reconstruction
+## Task 2. Fundamental matrices and epipolar lines
 
  (10%) 2.1 Take 2 photos of UCU building (or some other building) with your smartphone. Undistort them.
  
- (10%) 2.2 Choose 8 matching points liying on the same plane (for example front plane of the building). Find fundamental matrix and visualize epipoles using this set of points.
+ (10%) 2.2 Choose 8 matching points liying on the same plane (for example front plane of the building). Find fundamental matrix and visualize epipolar lines and epipoles using this set of points.
  
- (10%) 2.3 Choose 8 matching points NOT liying on the same plane (). Find fundamental matrix and visualize epipoles using this set of points.
+ (10%) 2.3 Choose 8 matching points NOT liying on the same plane (take them from different sides of building, for example 4 from one side and 4 from another). Find fundamental matrix and visualize epipolar lines and epipoles using this set of points.
+ 
+ (10%) 2.4 Find essential matrix using 5-points method. Calculate fundamental matrix using essential matrix and camera calibration matrices. Visualize epipolar lines and epipoles using this method
 
+ (10%) 2.5 Compare results from 2.2 and 2.3 and write a conclusion. Choose which fundamental matrix to use
+ 
+ 
+## Task 3. 3D reconstruction
+ 
+ (10%) 3.1 Reconstruct 3D shape of the building using 2 cameras reconstuction method
+ 
+ (10%) 3.2 Reconstruct 3D shape of the building using reconstuction from 3 cameras
+ 
+ () 3.3 Visualize obtained result in 3D (use 360 video render)
  
    2.4 Find 8 or more good point pairs on every image pair
    - The points should not lie on the same plane
