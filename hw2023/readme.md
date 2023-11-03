@@ -16,16 +16,9 @@
 
 4. (60 points) Research of ORB and SIFT feature matching. More info in colab https://colab.research.google.com/drive/1kgS_ULLbmkDD6qNJwOyeR4J7ezy19eWa?usp=sharing
 
-**Solutions should be available on colab.research.google.com and shared for public access using link only**
-
 ## Notes
 
-**In task 4** correctness of solution (up to scalar multiplier) can be verified using cv functions:
-
-```
-cv2.getPerspectiveTransform(pts1,pts2)
-cv2.warpPerspective(img,M,(w, h))
-```
+**Solutions should be available on colab.research.google.com and shared for public access using link only**
 
 ## <a name="textimages"></a> Separate text from background
 
