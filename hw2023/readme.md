@@ -3,19 +3,20 @@
 1. (10 points) Separate text from background and denoise [(images for task 1)](#textimages).
 
    The segmentation should make all background white and all text black.
-   The algorithm should detect areas with inverted text automatically
+   The algorithm should detect areas with inverted text automatically.
+   The algorithm should handle all 3 images without special adjustment for every image.
    
 2. (15 points) Estimate number of objects [(images for task 2)](#countimages)
    
    You can manually adjust segmentation parameters for each image or have one algorithm and get +5 points
 
-3. (10 points) Separate object from background [(images for task 3)](#objimages)
+3. (15 points) Separate object from background [(images for task 3)](#objimages)
 
    Adjust parameters of GrabCut algorithm to get the best result and compare to the result of u2Net-p neural network
 
-4 (60 points) Research of ORB and SIFT feature matching. More info in colab https://colab.research.google.com/drive/1kgS_ULLbmkDD6qNJwOyeR4J7ezy19eWa?usp=sharing
+4. (60 points) Research of ORB and SIFT feature matching. More info in colab https://colab.research.google.com/drive/1kgS_ULLbmkDD6qNJwOyeR4J7ezy19eWa?usp=sharing
 
-**Solutions should be available on colab.research.google.com and shared for access using link only**
+**Solutions should be available on colab.research.google.com and shared for public access using link only**
 
 ## Notes
 
@@ -45,11 +46,11 @@ cv2.warpPerspective(img,M,(w, h))
 
 ## <a name="objimages"></a> Separate objects from background
 
-![](images/obj1.jpg)
+![](images/obj1.jpeg)
 
-![](images/obj2.jpg)
+![](images/obj2.jpeg)
 
-![](images/obj3.jpg)
+![](images/obj3.jpeg)
 
 
 
