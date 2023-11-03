@@ -44,7 +44,7 @@ cv2.warpPerspective(img,M,(w, h))
 
 ![](images/count3.jpg)
 
-## <a name="objimages"></a> Separate objects from background
+## <a name="objimages"></a> Separate main object from background
 
 ![](images/obj1.jpeg)
 
