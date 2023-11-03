@@ -10,7 +10,7 @@
    
    You can manually adjust segmentation parameters for each image or have one algorithm and get +5 points
 
-3. (15 points) Separate object from background [(images for task 3)](#objimages)
+3. (15 points) Separate main object from background [(images for task 3)](#objimages)
 
    Adjust parameters of GrabCut algorithm to get the best result and compare to the result of u2Net-p neural network
 
